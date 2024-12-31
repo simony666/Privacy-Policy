@@ -1,6 +1,6 @@
 # Privacy Policy for TARUMT Student Intranet Helper
 
-Last Updated: [Current Date]
+Last Updated: 31 Dec 2024
 
 ## Introduction
 TARUMT Student Intranet Helper ("we", "our", or "the extension") is committed to protecting your privacy. This privacy policy explains how we handle your information when you use our Chrome extension.
